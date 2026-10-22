@@ -1,0 +1,6 @@
+{
+  "name": "Jigsaw Art Puzzle",
+  "description": "An artistic jigsaw puzzle game with beautiful artwork, smooth snap mechanics, and customizable difficulty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
